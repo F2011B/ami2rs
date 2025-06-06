@@ -1,0 +1,8 @@
+[package]
+name = "ami2rs"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "ami2rs"
+path = "src/lib.rs"
